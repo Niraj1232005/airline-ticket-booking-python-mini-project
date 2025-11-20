@@ -25,8 +25,6 @@ text
 (Or replace `main.py` with the filename you are using.)  
 The GUI window will open automatically.
 
-## 🖼️ Screenshot
-*(Add a screenshot of your application here to showcase the UI)*
 
 ## 📂 Requirements
 - Python 3.x  

@@ -14,15 +14,25 @@ It allows users to select cities, flights, travel dates, seat class, and generat
 
 ## ▶️ How to Run the Project
 
-1. Install the required package:
+1. Clone the repository:
+```bash
+git clone https://github.com/Niraj1232005/airline-ticket-booking-python-mini-project.git
+```
+
+2. Navigate into the project folder:
+```bash
+cd airline-ticket-booking-python-mini-project
+```
+
+3. Install the required package:
+```bash
 pip install tkcalendar
+```
 
-text
-2. Run the application:
-python main.py
-
-text
-(Or replace `main.py` with the filename you are using.)  
+4. Run the application:
+```bash
+python Airline_Ticket_gui.py
+```
 The GUI window will open automatically.
 
 
